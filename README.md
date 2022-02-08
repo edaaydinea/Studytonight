@@ -10,6 +10,9 @@ This repository consists of solutions to Studytonight **practice**, **tutorials*
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/Studytonight)](https://github.com/edaaydinea/Studytonight/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/Studytonight)](https://github.com/edaaydinea/Studytonight/archive/master.zip)
+[![GitHub License](https://img.shields.io:/github/license/edaaydinea/Studytonight)](https://img.shields.io:/github/license/edaaydinea/Studytonight)
+[![GitHub Written in](https://img.shields.io/badge/Written%20in%20-Python%2C%20Java%2C%20C%2B%2B%2C%20SQL-blue)](https://img.shields.io/badge/Written%20in%20-Python%2C%20Java%2C%20C%2B%2B%2C%20MYSQL-blue)
+[![GitHub WakaTime](https://wakatime.com/badge/github/edaaydinea/Studytonight.svg)](https://wakatime.com/badge/github/edaaydinea/Studytonight.svg)
 
 ## Personal Coderbyte Profile
 
